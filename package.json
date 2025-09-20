@@ -1,9 +1,14 @@
 {
-  "name": "firebase-hosting-app",
+  "name": "smart-farm-api",
   "version": "1.0.0",
-  "description": "A simple static site hosted on Firebase",
+  "description": "Backend API for the Smart Farm application",
+  "main": "app.js",
   "scripts": {
-    "start": "echo 'No server is needed. This is a static site.' && exit 0"
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
   },
   "keywords": [],
   "author": "",
