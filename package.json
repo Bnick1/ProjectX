@@ -1,0 +1,11 @@
+{
+  "name": "firebase-hosting-app",
+  "version": "1.0.0",
+  "description": "A simple static site hosted on Firebase",
+  "scripts": {
+    "start": "echo 'No server is needed. This is a static site.' && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
